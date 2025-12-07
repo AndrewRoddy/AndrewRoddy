@@ -3,5 +3,5 @@
 - 🤝 As Vice President of HacKSU, I'm organizing hackathons, and building community.
 - 👀 I'm interested in Data Engineering, C++, Python, and Angular
 - 🌱 I'm currently learning Angular and gearing up for junior year at KSU.
-- 
+
 ![Wakapi Stats](https://wakatime-stats-three.vercel.app/api/stats?username=AndrewRoddy)
