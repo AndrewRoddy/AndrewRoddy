@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Andrew Roddy!
 - 🌐 Check out my journey at [andrewroddy.com](https://andrewroddy.com/)
 - 🤝 As Vice President of HacKSU, I'm organizing hackathons, and building community.
-- 👀 I'm interested in Data Engineering, Angular, C++, Python, and React
-- 🌱 I'm currently learning React and gearing up for junior year at KSU.
+- 👀 I'm interested in Data Engineering, Angular, C++, React, Python, and Svelte
+- 🌱 I'm currently learning Svelte and gearing up for junior year at KSU.
